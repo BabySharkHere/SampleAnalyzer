@@ -2,9 +2,9 @@
 #include <fstream>
 #include <string>
 #include <cmath>
-#include "calculating.hpp"
-#include "histogram.hpp"
-#include "empiricFunction.hpp"
+#include "calculating.h"
+#include "histogram.h"
+#include "empiricFunction.h"
 #define N 100   //число строк (объём выборки)
 #define M 9 //число столбцов
 #define pathToFile "path" //Путь до файла с выборкой
